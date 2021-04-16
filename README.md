@@ -1,5 +1,5 @@
 # Code Repository for Self-Enhanced GNN
-This is the code repository for *Self-Enhanced GNN: Improving Graph Neural Networks Using Model Outputs* (IJCNN 2021).
+This is the code repository for [*Self-Enhanced GNN: Improving Graph Neural Networks Using Model Outputs*](https://arxiv.org/abs/2002.07518) (IJCNN 2021).
 
 ## Dependencies
 
